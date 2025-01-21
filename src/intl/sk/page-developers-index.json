@@ -8,7 +8,6 @@
   "page-developers-advanced": "Pre pokročilých",
   "page-developers-api-desc": "Interakcia so smart kontraktmi pomocou knižníc",
   "page-developers-api-link": "Rozhrania API pre backend",
-  "page-developers-aria-label": "Ponuka pre vývojárov",
   "page-developers-block-desc": "Dávky transakcií pridaných do blockchainu",
   "page-developers-block-explorers-desc": "Portál pre údaje Etherea",
   "page-developers-block-explorers-link": "Blockchainové prehliadače",
@@ -60,8 +59,8 @@
   "page-developers-read-docs": "Prečítajte si dokumentáciu",
   "page-developers-scaling-desc": "Riešenia pre rýchlejšie transakcie",
   "page-developers-scaling-link": "Škálovanie",
-  "page-developers-security-desc": "Bezpečnostné opatrenia, ktoré treba zvážiť pri vývoji",
-  "page-developers-security-link": "Zabezpečenie",
+  "page-developers-smart-contract-security-desc": "Bezpečnostné opatrenia, ktoré treba zvážiť pri vývoji",
+  "page-developers-smart-contract-security-link": "Zabezpečenie",
   "page-developers-set-up": "Nastavenie miestneho prostredia",
   "page-developers-setup-desc": "Pripravte svoj stack na programovanie aplikácií nakonfigurovaním vývojového prostredia.",
   "page-developers-smart-contracts-desc": "Logika za dappkami – automaticky uzatvárané zmluvy",
@@ -80,5 +79,6 @@
   "page-developers-transactions-desc": "Spôsob zmeny stavu Etherea",
   "page-developers-transactions-link": "Transakcie",
   "page-developers-web3-desc": "V čom je iný svet vývoja pre web3",
-  "page-developers-web3-link": "Web2 vs Web3"
+  "page-developers-web3-link": "Web2 vs Web3",
+  "alt-eth-blocks": "Ilustrácia blokov zorganizovaných ako symbol ETH"
 }
