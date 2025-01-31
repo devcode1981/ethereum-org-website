@@ -8,7 +8,6 @@
   "page-developers-advanced": "Avancerat",
   "page-developers-api-desc": "Använda bibliotek för att interagera med smarta kontrakt",
   "page-developers-api-link": "Serverdel-API:er",
-  "page-developers-aria-label": "Utvecklarmeny",
   "page-developers-block-desc": "Batcher av transaktioner som lagts till i blockkedjan",
   "page-developers-block-explorers-desc": "Din portal till Ethereum-data",
   "page-developers-block-explorers-link": "Blockutforskare",
@@ -38,8 +37,8 @@
   "page-developers-intro-eth-link": "Introduktion till Ethereum",
   "page-developers-intro-stack": "Introduktion till stacken",
   "page-developers-intro-stack-desc": "En introduktion till Ethereum-stacken",
-  "page-developers-js-libraries-desc": "Använda javascript för att interagera med smarta kontrakt",
-  "page-developers-js-libraries-link": "Javascript-bibliotek",
+  "page-developers-js-libraries-desc": "Använda JavaScript för att interagera med smarta kontrakt",
+  "page-developers-js-libraries-link": "JavaScript-bibliotek",
   "page-developers-language-desc": "Använda Ethereum med välkända språk",
   "page-developers-languages": "Programmeringsspråk",
   "page-developers-learn": "Lär dig Ethereum-utveckling",
@@ -60,8 +59,8 @@
   "page-developers-read-docs": "Läs dokumenten",
   "page-developers-scaling-desc": "Lösningar för snabbare transaktioner",
   "page-developers-scaling-link": "Skalning",
-  "page-developers-security-desc": "Säkerhetsåtgärder att beakta vid utveckling",
-  "page-developers-security-link": "Säkerhet",
+  "page-developers-smart-contract-security-desc": "Säkerhetsåtgärder att beakta vid utveckling",
+  "page-developers-smart-contract-security-link": "Säkerhet",
   "page-developers-set-up": "Konfigurera lokal miljö",
   "page-developers-setup-desc": "Förbered stacken för utveckling genom att skapa en utvecklingsmiljö.",
   "page-developers-smart-contracts-desc": "Logiken bakom dapps – självverkande avtal",
@@ -80,5 +79,6 @@
   "page-developers-transactions-desc": "Hur Ethereum-tillstånd förändras",
   "page-developers-transactions-link": "Transaktioner",
   "page-developers-web3-desc": "Hur web3-utvecklingsvärlden är annorlunda",
-  "page-developers-web3-link": "Web2 kontra Web3"
+  "page-developers-web3-link": "Web2 kontra Web3",
+  "alt-eth-blocks": "Illustration av block som organiseras som en ETH-symbol"
 }

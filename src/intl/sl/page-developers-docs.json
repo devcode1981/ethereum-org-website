@@ -16,6 +16,7 @@
   "docs-nav-erc-20": "ERC-20",
   "docs-nav-erc-721": "ERC-721",
   "docs-nav-erc-777": "ERC-777",
+  "docs-nav-erc-1155": "ERC-1155",
   "docs-nav-ethereum-client-apis": "API-ji odjemalca Ethereum",
   "docs-nav-ethereum-stack": "Sklad Ethereum",
   "docs-nav-evm": "Navidezni računalnik za Ethereum (EVM)",
@@ -28,7 +29,7 @@
   "docs-nav-intro-to-the-stack": "Uvod v sklad",
   "docs-nav-java": "Java",
   "docs-nav-java-script-apis": "API-ji za JavaScript",
-  "docs-nav-javascript": "Javascript",
+  "docs-nav-javascript": "JavaScript",
   "docs-nav-mining": "Rudarjenje",
   "docs-nav-networks": "Omrežja",
   "docs-nav-nodes-and-clients": "Vozlišča in odjemalci",
@@ -41,7 +42,7 @@
   "docs-nav-readme": "BERIME",
   "docs-nav-rust": "Rust",
   "docs-nav-scaling": "Širjenje",
-  "docs-nav-security": "Varnost",
+  "docs-nav-smart-contract-security": "Varnost",
   "docs-nav-smart-contract-anatomy": "Anatomija pametnih pogodb",
   "docs-nav-smart-contract-languages": "Jeziki pametnih pogodb",
   "docs-nav-smart-contracts": "Pametne pogodbe",
@@ -59,5 +60,9 @@
   "page-calltocontribute-link": "predlogo za dokumentacijo",
   "page-calltocontribute-link-2": "strežniku Discord",
   "page-calltocontribute-span": "Uredi stran",
-  "page-calltocontribute-title": "Pomagajte nam s to stranjo"
+  "page-calltocontribute-title": "Pomagajte nam s to stranjo",
+  "back-to-top": "Nazaj na vrh",
+  "banner-page-incomplete": "Ta stran je nepopolna in z veseljem sprejmemo vašo pomoč. Stran lahko urejate in nanjo dodate karkoli se vam zdi uporabno za druge.",
+  "next": "Naprej",
+  "previous": "Nazaj"
 }
